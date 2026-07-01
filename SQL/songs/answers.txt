@@ -1,0 +1,3 @@
+1. Based on the average values of energy, valence, and danceability, the listener’s audio aura appears energetic, positive, and dance-oriented. The songs generally have a high level of intensity and are suitable for social settings and active listening.
+
+2. This method may not be very representative because it treats all songs equally and only considers three attributes. A listener may have a few favorite songs that strongly influence their mood but are lost in the average. Additionally, music preferences can vary by situation, season, or mood. A better approach would be to weight songs by play count, include more audio features such as tempo and acousticness, and analyze listening patterns over time rather than relying on simple averages.

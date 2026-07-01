@@ -1,0 +1,24 @@
+HTML Tags Used:
+html
+head
+title
+body
+header
+nav
+div
+h1
+p
+a
+
+CSS Properties Used:
+color
+background-color
+font-size
+margin
+padding
+
+JavaScript:
+I used JavaScript to add interactivity to buttons and display dynamic messages based on user actions.
+
+Bootstrap:
+I used Bootstrap components and utility classes to create a responsive layout and improve the website’s appearance.
